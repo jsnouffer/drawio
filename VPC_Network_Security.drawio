@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T15:44:09.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JDuGnT1XxJINCrEEWODk" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T15:49:58.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rFW6miRpXTXPqMj_131W" version="20.6.2" type="github">
   <diagram id="jajP4sxrEKpcrrhdu1mM" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
           <mxGeometry x="-0.22" relative="1" as="geometry">
             <mxPoint x="28" y="-7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FFeFcf7Lav184Xf4TCM_-55" value="AWS GovCloud - Network Security" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="18" width="1160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
